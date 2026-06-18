@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "foreach_And_If_Structures/1.0.0": {
+        "runtime": {
+          "foreach_And_If_Structures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "foreach_And_If_Structures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

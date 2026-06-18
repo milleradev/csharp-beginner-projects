@@ -1,0 +1,15 @@
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/bin/Debug/net10.0/foreach_And_If_Structures
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/bin/Debug/net10.0/foreach_And_If_Structures.deps.json
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/bin/Debug/net10.0/foreach_And_If_Structures.runtimeconfig.json
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/bin/Debug/net10.0/foreach_And_If_Structures.dll
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/bin/Debug/net10.0/foreach_And_If_Structures.pdb
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/foreach_And_If_Structures.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/foreach_And_If_Structures.AssemblyInfoInputs.cache
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/foreach_And_If_Structures.AssemblyInfo.cs
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/foreach_And_If_Structures.csproj.CoreCompileInputs.cache
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/foreach_And_If_Structures.sourcelink.json
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/foreach_And_If_Structures.dll
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/refint/foreach_And_If_Structures.dll
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/foreach_And_If_Structures.pdb
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/foreach_And_If_Structures.genruntimeconfig.cache
+/workspaces/csharp-beginner-projects/foreach_And_If_Structures/obj/Debug/net10.0/ref/foreach_And_If_Structures.dll
